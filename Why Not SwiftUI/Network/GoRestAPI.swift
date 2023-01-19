@@ -2,7 +2,7 @@
 //  GoRestAPI.swift
 //  Why Not SwiftUI
 //
-//  Created by Md. Mahmudul Hasan Shohag on 8/8/22.
+//  Created  on 8/8/22.
 //
 
 import Foundation

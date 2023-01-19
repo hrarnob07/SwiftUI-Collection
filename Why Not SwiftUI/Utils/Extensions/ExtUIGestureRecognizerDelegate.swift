@@ -1,5 +1,5 @@
 //
-//  Copyright © 2022 Md. Mahmudul Hasan Shohag. All rights reserved.
+//  Copyright ©  All rights reserved.
 //
 
 import Foundation

@@ -1,5 +1,5 @@
 //
-//  Copyright © 2022 Md. Mahmudul Hasan Shohag. All rights reserved.
+//  CopyrightnAll rights reserved.
 //
 
 import SwiftUI
