@@ -46,12 +46,10 @@ struct CoolToastScreen: View {
             isPresented: $showToastOne,
             icon: "light.beacon.max.fill",
             message: "Please Be Warn!",
-            paddingBottom: 32
+            anchor: .bottom
+            
         )
-        .coolToast(
-            data: $showToastTwo,
-            paddingBottom: 120
-        )
+        
     }
 }
 
